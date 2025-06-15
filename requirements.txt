@@ -123,13 +123,11 @@ pyparsing
 pypdf
 PyPDF2
 pyphen
-pypiwin32
 python-dateutil
 python-docx
 python-dotenv
 python-multipart
 pytz
-pywin32
 PyYAML
 realtime
 regex
