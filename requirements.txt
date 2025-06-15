@@ -18,3 +18,5 @@ pypandoc
 weasyprint
 markdown
 docx2pdf
+google-generativeai
+
