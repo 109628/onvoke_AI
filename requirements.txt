@@ -19,7 +19,7 @@ weasyprint
 markdown
 docx2pdf
 google-generativeai
-
+python-magic
 
 
 
