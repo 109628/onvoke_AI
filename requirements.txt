@@ -47,7 +47,7 @@ pillow
 pydantic
 pydantic_core
 PyMuPDF
-pypandocg
+
 pypdf
 python-docx
 python-dotenv
